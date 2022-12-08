@@ -1,7 +1,5 @@
-- :alien: Hi, I’m @nordy
-- :sunny: I’m interested in ...
-- 🌱 and I'm a curious student still trying to learn,
-- and I'll be around for a while
+:alien: Hi, I’m @nordy
+:sunny: and I'm a curious student still trying to learn.
 
 <!---
 nordy/nordy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
